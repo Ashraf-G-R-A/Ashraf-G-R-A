@@ -28,7 +28,7 @@
 
 ## 🌱 Currently Learning  
 - **Jetpack Compose, Node.js, MongoDB**  
-- **Cross-platform mobile development (Flutter) **  
+- **Cross-platform mobile development** (Flutter) 
 
 ---
 
