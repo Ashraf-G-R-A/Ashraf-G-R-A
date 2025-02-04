@@ -6,21 +6,24 @@
 ## 🚀 Work Experience  
 🔭 I’m currently working on **[Digital Egypt Initiative](https://your-project-link.com)**  
 👯 I’m looking to collaborate on **Android and Cross-Platform Projects**  
-🤝 I’m looking for help with **Advanced AI/ML in Mobile Development**  
+ Studied core Android development components, including **Activities, Fragments, Retrofit, and API integration**.  
+- Gained hands-on experience in **building and optimizing mobile applications**.  
+📜 **Instant Diploma under the supervision of Mohamed Magdy** *(5 months)*  
+
 
 ---
 
 ## 🎓 Education  
 🎓 **Bachelor of Science in Information Technology**  
-- Studied core Android development components, including **Activities, Fragments, Retrofit, and API integration**.  
-- Gained hands-on experience in **building and optimizing mobile applications**.  
-📜 **Instant Diploma under the supervision of Mohamed Magdy** *(5 months)*  
+    GPA: 3.23 / 4.00 | Oct 2021 – Jul 2025
+
+
 
 ---
 
 ## 🌱 Currently Learning  
 - **Jetpack Compose, Node.js, MongoDB**  
-- **Cross-platform mobile development**  
+- **Cross-platform mobile development (Flutter) **  
 
 ---
 
