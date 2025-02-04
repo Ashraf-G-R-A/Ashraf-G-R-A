@@ -5,9 +5,10 @@
 
 ## 🚀 Work Experience  
 🔭 I’m currently working on **[Digital Egypt Initiative](https://your-project-link.com)**  
-👯 I’m looking to collaborate on **Android and Cross-Platform Projects**  
- Studied core Android development components, including **Activities, Fragments, Retrofit, and API integration**.  
-- Gained hands-on experience in **building and optimizing mobile applications**.  
+- Developing and maintaining native mobile applications with a focus on Android (Kotlin, Java).
+- Gaining experience in cross-platform development, UI/UX, and API integration.
+- Ensuring app performance, responsiveness, and adherence to modern development practices.
+
 📜 **Instant Diploma under the supervision of Mohamed Magdy** *(5 months)*  
 
 
