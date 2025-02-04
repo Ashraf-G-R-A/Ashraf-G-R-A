@@ -41,7 +41,6 @@
 ## 📫 How to reach me  
 📧 **ashrafgamalrafeekali@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/ashraf-gamal-339972265/)**  
-
 📄 **[Resume](https://drive.google.com/drive/folders/1WoyYcsl4MNityiNjO1Jm2wohERSuBGo2?usp=sharing)**  
 
 ---
