@@ -20,7 +20,7 @@
 
 ## 🎓 Education  
 🎓 **Bachelor of Science in Information Technology**  
-    GPA: 3.23 / 4.00 | Oct 2021 – Jul 2025
+  - GPA: 3.23 / 4.00 | Oct 2021 – Jul 2025
 
 
 
