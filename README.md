@@ -5,10 +5,14 @@
 
 ## 🚀 Work Experience  
 🔭 I’m currently working on **[Digital Egypt Initiative](https://your-project-link.com)**  
-- Developing and maintaining native mobile applications with a focus on Android (Kotlin, Java).
-- Gaining experience in cross-platform development, UI/UX, and API integration.
-- Ensuring app performance, responsiveness, and adherence to modern development practices.
-
+  - Developing and maintaining native mobile applications with a focus on Android (Kotlin, Java).
+  - Gaining experience in cross-platform development, UI/UX, and API integration.
+  - Ensuring app performance, responsiveness, and adherence to modern development practices.
+    
+🔭 Bachelor of Science in Information Technology [one month]
+  - Studiedcore Android development components, including activities,fragments,Retrofit, and API integration.
+  - Gained hands-on experience in building and optimizing mobile applications.
+  - 
 📜 **Instant Diploma under the supervision of Mohamed Magdy** *(5 months)*  
 
 
