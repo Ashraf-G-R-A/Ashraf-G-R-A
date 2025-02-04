@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats  
 
-![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-G-R-A&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-G-R-A&layout=compact&theme=dark)  
+![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-G-R-A&show_icons=true&theme=dark) ,![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-G-R-A&layout=compact&theme=dark)      
+
 
 ---
 
