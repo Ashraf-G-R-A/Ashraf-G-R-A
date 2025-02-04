@@ -32,12 +32,6 @@
 
 ---
 
-## 💬 Ask me about  
-- **Android (Kotlin, Java), Clean Architecture, Jetpack Compose**  
-- **Firebase, REST APIs, Coroutines, Hilt, MVVM**  
-
----
-
 ## 📫 How to reach me  
 📧 **ashrafgamalrafeekali@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/ashraf-gamal-339972265/)**  
