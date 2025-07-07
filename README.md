@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Work Experience  
-🔭 I’m currently working on **[Digital Egypt Initiative](https://your-project-link.com)**  
+🔭 I’m currently working on **Digital Egypt Initiative October 2024 – January 2025**  
   - Developing and maintaining native mobile applications with a focus on Android (Kotlin, Java).
   - Gaining experience in cross-platform development, UI/UX, and API integration.
   - Ensuring app performance, responsiveness, and adherence to modern development practices.
