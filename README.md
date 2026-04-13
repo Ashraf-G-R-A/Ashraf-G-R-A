@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Work Experience  
-🔭**Android Developer | Visions Tech  February 2025 – Present**  
+🔭**Android Developer | Visions Tech  February 2025 **  
 
 🔭**Digital Egypt Initiative October 2024 – January 2025**  
   - Developing and maintaining native mobile applications with a focus on Android (Kotlin, Java).
